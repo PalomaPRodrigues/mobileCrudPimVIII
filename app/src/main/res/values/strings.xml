@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrudUnip</string>
+    <string name="salvar">[CadastroActivity]</string>
+    <string name="CadastroActivity">Salvar</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Consulta">Consulta</string>
+    <string name="Atualizar">Atualizar</string>
+    <string name="Excluir">Excluir</string>
+
+</resources>
